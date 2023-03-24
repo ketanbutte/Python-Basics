@@ -14,6 +14,15 @@
 
 # print("Hi",name,surname,"are you genius: ",is_genius)
 
-name = input("Please enter your name: ")
 
-print("How are you",name,'?')          
+###INPUT####
+
+# name = input("Please enter your name: ")
+
+# print("How are you",name,'?')          
+
+###-----####
+
+###Ensuring /converting the input provided by user
+
+

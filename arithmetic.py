@@ -11,12 +11,16 @@
 
 # print(2**3, 'is the answer by using power operator')
 
+##SHORTCUTS--using variable name in arithmetic operations
 
-
-##Shortcuts
-
-i = 2
+i = 10
 
 # i = i +2
-i += 3
+i += 3 #is same as i = i + 3
+i -= 4
 print(i)
+
+
+
+
+
